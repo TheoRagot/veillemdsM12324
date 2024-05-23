@@ -9,40 +9,44 @@ Réalisez pour chaque outil de veille qui vous est attribué un fichier au forma
 
 ## Sujets
 
+Voici le tableau avec les numéros dans l'ordre :
+
 | Numéro | Nom | Informations supplémentaires |
 | --- | --- | --- |
 | 1 | Twitter | --- |
 | 2 | Pinterest | --- |
 | 3 | Instagram | --- |
 | 4 | Facebook | --- |
-| 5 | Threads | --- |
-| 6 | TikTok | --- |
-| 7 | Snapchat | --- |
-| 8 | Netvibes | --- |
-| 9 | Feedly | --- |
-| 10 | Flipboard | --- |
-| 11 | Inoreader | --- |
-| 12 | Flusio | --- |
-| 13 | Spotify | --- |
-| 14 | Youtube | --- |
-| 15 | Dailymotion | --- |
-| 16 | Vimeo | --- |
-| 17 | Twitch | --- |
-| 18 | Discord | --- |
-| 19 | Slack | --- |
-| 20 | Reddit | --- |
-| 21 | WhatsApp | --- |
-| 22 | Sites Spécialisés | --- |
-| 23 | Journaux | --- |
-| 24 | Magazines | --- |
-| 25 | Informations TV | --- |
-| 26 | Google Alertes | --- |
-| 27 | Mention | --- |
-| 28 | TalkWalker | --- |
-| 29 | Monibrand | --- |
-| 30 | Swelo | --- |
-| 31 | XXXXX | --- |
-| 32 | XXXXX | --- |
+| 5 | LinkedIn | --- |
+| 6 | Threads | --- |
+| 7 | TikTok | --- |
+| 8 | Snapchat | --- |
+| 9 | Netvibes | --- |
+| 10 | Feedly | --- |
+| 11 | Flipboard | --- |
+| 12 | Inoreader | --- |
+| 13 | Flusio | --- |
+| 14 | Spotify | --- |
+| 15 | Youtube | --- |
+| 16 | Dailymotion | --- |
+| 17 | Vimeo | --- |
+| 18 | Twitch | --- |
+| 19 | Discord | --- |
+| 20 | Slack | --- |
+| 21 | Reddit | --- |
+| 22 | WhatsApp | --- |
+| 23 | Sites Spécialisés | --- |
+| 24 | Journaux | --- |
+| 25 | Magazines | --- |
+| 26 | Informations TV | --- |
+| 27 | Google Alertes | --- |
+| 28 | Mention | --- |
+| 29 | TalkWalker | --- |
+| 30 | Monibrand | --- |
+| 31 | Swelo | --- |
+| 32 | Daily Dev | --- |
+
+
 
 ## Groupes
 
