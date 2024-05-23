@@ -7,6 +7,9 @@ Réalisez pour chaque outil de veille qui vous est attribué un fichier au forma
 - Un ou plusieurs workflows permettant d'utiliser l'outil de manière optimale
 - Un mini tuto imagé permettant de prendre ses marques rapidement sur l'outil
 
+Vos rendus doivent se faire sur ce repository, au format MarkDown. Le nom de vos fichiers doit correspondre au nom de l'outil associé.
+
+
 ## Sujets
 
 Voici le tableau avec les numéros dans l'ordre :
@@ -60,4 +63,8 @@ Voici le tableau avec les numéros dans l'ordre :
 | 6 | Bastien & Clément | 1, 3, 23, 4 |
 | 7 | Yassine & Walid | 19, 7, 22, 28 |
 | 8 | Lisa & Théo | 16, 8, 25, 9 |
+
+## Barème
+
+à venir...
 
