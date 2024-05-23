@@ -44,12 +44,14 @@ Réalisez pour chaque outil de veille qui vous est attribué un fichier au forma
 
 ## Groupes
 
-| Numéro | Nom / Prénom |
-| --- | --- |
-| 1 | --- |
-| 2 | --- |
-| 3 | --- |
-| 4 | --- |
-| 5 | --- |
-| 6 | --- |
+| Numéro | Nom / Prénom | Outils |
+| --- | --- | --- |
+| 1 | --- | --- |
+| 2 | --- | --- |
+| 3 | --- | --- |
+| 4 | --- | --- |
+| 5 | --- | --- |
+| 6 | --- | --- |
+| 7 | --- | --- |
+| 8 | --- | --- |
 
