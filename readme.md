@@ -52,12 +52,12 @@ Voici le tableau avec les numéros dans l'ordre :
 
 | Numéro | Nom / Prénom | Outils |
 | --- | --- | --- |
-| 1 | --- | --- |
-| 2 | --- | --- |
-| 3 | --- | --- |
-| 4 | --- | --- |
-| 5 | --- | --- |
-| 6 | --- | --- |
-| 7 | --- | --- |
-| 8 | --- | --- |
+| 1 | Léo & Anaëlle | --- |
+| 2 | Nathan & Pierre | --- |
+| 3 | Hugo & Davy | --- |
+| 4 | Jules & Guillaume | --- |
+| 5 | Moussa & Elhoucine | --- |
+| 6 | Bastien & Clément | --- |
+| 7 | Yassine & Walid | --- |
+| 8 | Lisa & Théo | --- |
 
