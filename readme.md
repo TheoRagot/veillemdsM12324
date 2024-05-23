@@ -12,7 +12,7 @@ Réalisez pour chaque outil de veille qui vous est attribué un fichier au forma
 | Numéro | Nom | Informations supplémentaires |
 | --- | --- | --- |
 | 1 | Twitter | --- |
-| 2 | TweetDeck | --- |
+| 2 | Pinterest | --- |
 | 3 | Instagram | --- |
 | 4 | Facebook | --- |
 | 5 | Threads | --- |
@@ -41,6 +41,8 @@ Réalisez pour chaque outil de veille qui vous est attribué un fichier au forma
 | 28 | TalkWalker | --- |
 | 29 | Monibrand | --- |
 | 30 | Swelo | --- |
+| 31 | XXXXX | --- |
+| 32 | XXXXX | --- |
 
 ## Groupes
 
