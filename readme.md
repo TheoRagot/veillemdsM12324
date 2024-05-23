@@ -54,7 +54,7 @@ Voici le tableau avec les numéros dans l'ordre :
 | --- | --- | --- |
 | 1 | Léo & Anaëlle | 14, 15, 21, 31 |
 | 2 | Nathan & Pierre | 2, 27, 6, 26 |
-| 3 | Hugo & Davy | 10, 18,  |
+| 3 | Hugo & Davy | 10, 18, 20, 17 |
 | 4 | Jules & Guillaume | 32, 5, 24, 11 |
 | 5 | Moussa & Elhoucine | --- |
 | 6 | Bastien & Clément | 1, 3,   |
