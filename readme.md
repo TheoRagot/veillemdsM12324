@@ -49,8 +49,6 @@ Voici le tableau avec les numéros dans l'ordre :
 | 31 | Swelo | --- |
 | 32 | Daily Dev | --- |
 
-
-
 ## Groupes
 
 | Numéro | Nom / Prénom | Outils |
@@ -66,5 +64,9 @@ Voici le tableau avec les numéros dans l'ordre :
 
 ## Barème
 
-à venir...
+- **5 points** : La présentation de l'outil est pertinente et complète. Elle passe en revue la majorité des possibilités et fonctionnalités et les cadre bien avec les besoins en veille informationnelle.
+- **5 points** : Les avantages et inconvénient de l'outil sont correctement identifiés et explicités
+- **5 points** : Le ou les workflows permettant d'utiliser l'outil de manière optimale sont présents, pertinent et sont applicables rapidement sur tous les sujets.
+- **5 points** : Le tutoest complet et permet à la fois de décourir et comprendre l'interface de l'outil, mais aussi de le prendre en main rapidement.
+- **3 points bonus** : Les informations complémentaires sont bien traitées dans le sujet
 
