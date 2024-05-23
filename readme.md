@@ -57,7 +57,7 @@ Voici le tableau avec les numéros dans l'ordre :
 | 3 | Hugo & Davy | --- |
 | 4 | Jules & Guillaume | --- |
 | 5 | Moussa & Elhoucine | --- |
-| 6 | Bastien & Clément | --- |
+| 6 | Bastien & Clément | 1,  |
 | 7 | Yassine & Walid | --- |
 | 8 | Lisa & Théo | --- |
 
