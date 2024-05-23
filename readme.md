@@ -9,7 +9,7 @@ Réalisez pour chaque outil de veille qui vous est attribué un fichier au forma
 
 ## Sujets
 
-| Numéro | Nom | Travail à faire |
+| Numéro | Nom | Informations supplémentaires |
 | --- | --- | --- |
 | 1 | Twitter | --- |
 | 2 | TweetDeck | --- |
