@@ -69,7 +69,7 @@ TalkWalker est un outil de veille informationnelle et d'analyse de médias, con�
 
 ### Étape 3 : Analyse des données
 
-[https://www.notion.solink-to-image](https://www.notion.solink-to-image)
+!["Visualisation résultats recherches"](./images/talkwalker3.png)
 
 1. **Rapports détaillés** : Analysez les rapports pour comprendre la portée et l'impact des infractions.
 2. **Visualisation des données** : Utilisez les graphiques pour une meilleure interprétation des données.
