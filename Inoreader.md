@@ -24,4 +24,16 @@ RSS est une famille de Flux web, c'est-à-dire un type de format de données uti
 
 ### Avantages :
 
+- **Personnalisation** : Inoreader permet de personnaliser l'expérience de lecture avec des règles de filtrage et des dossiers.
+- **Synchronisation** : Synchronisation multi-appareils, permettant d'accéder aux flux depuis n'importe où.
+- **Automatisation** : Fonctionnalités d'automatisation pour marquer comme lu, étiqueter ou partager des articles automatiquement.
+- **Recherche Puissante** : Recherche avancée dans les articles et historique des flux.
+- **Intégrations** : Compatible avec de nombreux services tiers (Evernote, Google Drive, etc.).
+
 ### Inconvénients :
+
+- **Complexité** : Peut être complexe pour les nouveaux utilisateurs en raison de ses nombreuses fonctionnalités.
+- **Version Gratuite Limité** : Certaines fonctionnalités avancées sont réservées aux abonnés payants.
+- **Interface** : L'interface peut paraître encombrée pour certains utilisateurs.
+- Les filtres personnalisés peuvent être compliqués à configurer.
+
