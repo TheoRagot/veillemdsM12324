@@ -55,7 +55,7 @@ TalkWalker est un outil de veille informationnelle et d'analyse de médias, con�
 
 ### Étape 1 : Connexion et Configuration initiale
 
-[https://www.notion.solink-to-image](https://www.notion.solink-to-image)
+!["Dashboard"](./images/talkwalker1.png)
 
 1. **Connexion** : Accédez à TalkWalker et connectez-vous avec vos identifiants.
 2. **Configuration des alertes** : Rendez-vous dans le menu de configuration et définissez vos mots-clés.
