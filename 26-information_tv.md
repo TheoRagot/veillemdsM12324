@@ -1,4 +1,3 @@
-![Logo TV](./images/Information-TV/1-logo.png)
 
 # Présentation des Informations TV
 
