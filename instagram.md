@@ -44,11 +44,15 @@ Afin que l'algorithme nous recommande des comptes qui nous intéressent il faut 
   <img src="images/instagram/1.PNG" alt="Description de l'image 1" width="200">
 </div>
 
+---
+
 ### Liker les posts :
 Pour montrer à l'algorithme que l'on veut voir plus de ce type de contenu il est intéréssant d'intéragir avec. (enregistrer, liker etc...).
 <div align="center">
   <img src="images/instagram/5.jpg" alt="Description de l'image 1" width="200">
 </div>
+
+---
 
 ### S'abonner aux comptes :
 Si le contenu trouvé dans l'étape précédente nous intéresse, il est intéressant de s'abonner pour voir plus de contenu de ce type.
@@ -56,11 +60,15 @@ Si le contenu trouvé dans l'étape précédente nous intéresse, il est intére
   <img src="images/instagram/4.jpg" alt="Description de l'image 1" width="200">
 </div>
 
+---
+
 ### Activer les notifications :
 Afin de ne pas rater de contenu intéressant il est possible d'activer les notifications pour les comptes qui nous intéressent.
 <div align="center">
   <img src="images/instagram/3.PNG" alt="Description de l'image 1" width="200">
 </div>
+
+---
 
 ### S'informer quotidiennement :
 En respectant ces étapes quotidiennement, l'algorithme nous recommandera de plus en plus de contenu qui nous intéresse et notre fil d'actualité nous permettra une veille efficace.
