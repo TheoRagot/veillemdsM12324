@@ -57,3 +57,14 @@ Cette fonction n'est disponible que pour les utilisateurs Pro.
 
 ## Mini tuto imagé
 
+### Inscription et Connexion
+
+1. Accédez à [Inoreader](https://www.inoreader.com/fr).
+2. Cliquez sur "Créer un compte" pour créer un compte ou "Se connecter" si vous avez déjà un compte.
+
+## Ajouter des Flux RSS
+
+1. Cliquez sur le bouton "+ Ajouter. !["Ajout"](./images/Inoreder1.png)
+3. Choisir "Flux". !["Flux"](./images/Inoreader2.png)
+2. Entrez l'URL du flux RSS ou recherchez une source.!["Recherche"](./images/Inoreader3.png)
+4. Cliquez sur "Suivre" et le flux sera ajouté à gauche de votre écran.!["Suivre"](./images/Inoreader4.png)
