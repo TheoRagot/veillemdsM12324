@@ -1,9 +1,3 @@
-- Une présentation de l'outil
-- Les avantages et inconvénient de l'outil
-- Un ou plusieurs workflows permettant d'utiliser l'outil de manière optimale
-- Un mini tuto imagé permettant de prendre ses marques rapidement sur l'outil
-
-
 ## Présentation de Feedly
 Feedly est un agrégateur de flux RSS développé par la société DevHD, basée à Bucarest en Roumanie.
 Lancé en 2008, cet outil a connu un essor fulgurant à partir de 2013, dès l’annonce de fermeture de Google Reader, le service d’agrégateur de flux RSS proposé par Google.
@@ -13,7 +7,7 @@ Feedly propose gratuitement une application mobile disponible sous iOS et Androi
 ## Avantages
 - Les contenus que vous souhaitez suivre peuvent être organisés par catégorie et réunis sur une seule plateforme
 - C’est un outil efficace pour organiser et gérer vos sources d’informations
-- Vous pouvez gérer et consulter vos flux RSS aussi bien sur un appareil mobile que s ur un ordinateur
+- Vous pouvez gérer et consulter vos flux RSS aussi bien sur un appareil mobile que sur un ordinateur
 - Vous avez la possibilité de partager, via les réseaux sociaux, vos flux à vos contacts
 - Différents modes d’affichage sont proposés pour faciliter l’organisation et la recherche (Liste, Vignette, Article, Liste)
 - De nombreuses fonctionnalités sont à votre disposition (tableaux de veille, notes et surlignages…)
@@ -38,3 +32,8 @@ Il faut créer un dossier qui regroupe toutes une technologie comme React par ex
 - Par défaut le filtre regarde les plus populaires et les plus récents
 
 - Vous pouvez créer un board qui permet de sauvegarder des articles en ligne
+
+# Conclusion
+Feedly est un excellent outil pour de la veille informationnelle, notamment pour les professionnels du développement web. Grâce à sa capacité à organiser les contenus par catégorie et à centraliser diverses sources d’informations, il facilite grandement la gestion et la consultation des flux RSS, que ce soit sur mobile ou ordinateur.
+Bien que certaines fonctionnalités avancées soient réservées à la version Premium, la version gratuite reste suffisante.
+Pour les développeurs web cherchant à rester informés des dernières tendances et actualités, Feedly offre une solution intuitive, flexible et puissante pour une veille efficace.
