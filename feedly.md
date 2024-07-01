@@ -24,8 +24,8 @@ Feedly propose gratuitement une application mobile disponible sous iOS et Androi
 - Contenu limité par la version gratuite (nombre de dossiers, )
 
 ## Workflows
-Pour optimiser la recherche, feedly a un outil de recherche développé qui permet de chercher soi des feeds soi des tags qui permettent d'élargir la recherche
-Il faut créer un dossier qui regroupe toutes une technologie comme Ract par exemple et ajouter tous les feeds liés à cette technologie ou topic dans ce même dossier
+Pour optimiser la recherche, feedly a un outil de recherche développé qui permet de chercher soi des feeds soi des tags qui permettent d'élargir la recherche.
+Il faut créer un dossier qui regroupe toutes une technologie comme React par exemple et ajouter tous les feeds liés à cette technologie ou topic dans ce même dossier.
 
 
 ## Mini tuto pris en main de l'outil
