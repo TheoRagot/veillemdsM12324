@@ -2,7 +2,7 @@
 
 **Introduction générale**
 
-Mention est une plateforme de surveillance des médias qui permet aux entreprises de surveiller, analyser et réagir aux conversations en ligne concernant leur marque. Grâce à ses capacités de suivi en temps réel, Mention aide les utilisateurs à rester informés des mentions de leur marque à travers diverses sources, y compris les réseaux sociaux, les forums, les blogs, et les sites d'actualités.
+Mention est une plateforme de surveillance des médias qui permet aux entreprises de surveiller, analyser et réagir aux conversations en ligne concernant leur marque. Grâce à ses capacités de suivi en temps réel, Mention aide les utilisateurs à rester informés des mentions de leur marque à travers diverses sources, y compris les réseaux sociaux, les forums, les blogs, et les sites d'actualités, dans notre cas, cette plateforme est parfaitement adaptée pour de la veille informationnelle.
 
 **Fonctionnalités Clés**
 
@@ -43,17 +43,20 @@ Mention est une plateforme de surveillance des médias qui permet aux entreprise
 - Rendez-vous sur le site web de Mention et inscrivez-vous pour créer un compte.
 
 ### Étape 2: Configuration des Alertes
+![Configuration des alertes](./images/mention/usage.png)
+- Choisir le bon cas d'usage vous permet de personnaliser la surveillance selon vos besoins spécifiques. Notre objectif principal étant de faire de la veille sur des développements techniques ou des mises à jour spécifiques à un domaine, alors "Créer une alerte par moi-même" serait probablement l'option la plus appropriée.
+
 ![Configuration des alertes](./images/mention/recherche.png)
-- Configurez des alertes personnalisées en spécifiant les mots-clés, les sources, et les préférences de notification.
+- Configurez des alertes personnalisées en spécifiant les mots-clés, les sources, et les préférences de notification. Cela permet de collecter des mentions spécifiques qui incluent tous les mots-clés listés ici. Notes : mettez des mots anglais pour profiter de plus de contenu à l'internationnal. 
 
-### Étape 3: Surveillance et Analyse
-![Surveillance des mentions](./images/mention/monitoring.png)
-- Surveillez les mentions et analysez les sentiments des posts collectés pour évaluer la perception de votre marque.
+![Configuration des alertes](./images/mention/language.png)
+- Vous pouvez sélectionner des langues spécifiques pour filtrer les mentions. Mention ne récupérera des résultats que si l'article est rédigé dans l'une des langues sélectionnées. Inclure l'anglais dans la liste des langues surveillées est crucial, car l'anglais est souvent la langue dominante sur Internet et dans les affaires internationales. De nombreux contenus importants, rapports de recherche, et discussions sont publiés en anglais, même par des entités non anglophones.
 
-### Étape 4: Génération de Rapports
-![Génération de rapports](./images/mention/reports.png)
-- Générez des rapports pour visualiser les tendances, les volumes de mention, et les sentiments.
+![Configuration des alertes](./images/mention/source.png)
+- Cibler efficacement les plateformes d'où proviendront les mentions que vous souhaitez surveiller ce qui permet d'assurer que vous recevez des données pertinentes et de qualité, tout en évitant les distractions et les informations superflues.
 
----
+![Configuration des alertes](./images/mention/avis.png)
+- Cette page de Mention vous permet de surveiller spécifiquement les sites d'avis clients, essentiels pour comprendre les retours directement exprimés par les consommateurs. Pour configurer votre surveillance, cliquez sur "+ Ajouter une page d'avis clients" et sélectionnez les sites pertinents. Cela vous aidera à recueillir les opinions et les évaluations qui influencent la réputation de votre marque, en permettant une analyse fine des sentiments exprimés par vos clients.
 
-Cette documentation vous offre une vue complète sur l'utilisation de Mention pour une veille informationnelle efficace, centrée sur le suivi des mentions de marque, l'analyse des sentiments, et la veille concurrentielle.
+![Configuration des alertes](./images/mention/avis.png)
+
