@@ -1,7 +1,3 @@
-Parfait, en nous basant sur votre documentation détaillée pour TikTok, je vais créer une documentation similaire pour la plateforme Mention, en me concentrant sur ses utilisations pour le suivi des mentions de marque, l'analyse des sentiments, et la veille concurrentielle.
-
----
-
 ## Présentation de l'Outil : Mention
 
 **Introduction générale**
@@ -47,7 +43,7 @@ Mention est une plateforme de surveillance des médias qui permet aux entreprise
 - Rendez-vous sur le site web de Mention et inscrivez-vous pour créer un compte.
 
 ### Étape 2: Configuration des Alertes
-![Configuration des alertes](./images/mention/setup_alerts.png)
+![Configuration des alertes](./images/mention/recherche.png)
 - Configurez des alertes personnalisées en spécifiant les mots-clés, les sources, et les préférences de notification.
 
 ### Étape 3: Surveillance et Analyse
