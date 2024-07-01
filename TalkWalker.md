@@ -62,7 +62,7 @@ TalkWalker est un outil de veille informationnelle et d'analyse de médias, con�
 
 ### Étape 2 : Utilisation de Quick Search
 
-[https://www.notion.solink-to-image](https://www.notion.solink-to-image)
+!["Recherche"](./images/talkwalker2.png)
 
 1. **Recherche rapide** : Accédez à l'outil Quick Search pour comparer jusqu'à 5 marques.
 2. **Filtres** : Utilisez les filtres pour affiner les résultats par plateforme, type d'infraction, etc.
@@ -76,7 +76,9 @@ TalkWalker est un outil de veille informationnelle et d'analyse de médias, con�
 
 ### Étape 4 : Réaction et gestion
 
-[https://www.notion.solink-to-image](https://www.notion.solink-to-image)
+!["Reaction et gestion"](./images/talkwalker4.png)
+
+!["Reaction et gestion"](./images/talkwalker5.png)
 
 1. **Alertes en temps réel** : Configurez les notifications pour être alerté immédiatement en cas d'infraction.
 2. **Gestion des infractions** : Utilisez les outils de Talkwalker pour signaler et suivre les actions entreprises pour chaque infraction.
@@ -86,3 +88,11 @@ TalkWalker est un outil de veille informationnelle et d'analyse de médias, con�
 - **Support** : TalkWalker propose un support client réactif et de nombreuses ressources en ligne pour aider les utilisateurs à tirer le meilleur parti de l'outil.
 - **Intégrations** : Compatible avec de nombreuses autres plateformes et outils de marketing, facilitant l'intégration dans votre écosystème numérique existant.
 - **Sécurité** : TalkWalker garantit un haut niveau de sécurité et de confidentialité des données.
+
+## Sources
+ 
+https://www.talkwalker.com/fr/blog/comment-effectuer-une-veille-concurrentielle
+https://formadoct.doctorat-bretagneloire.fr/c.php?g=677427&p=5095316
+https://www.blogdumoderateur.com/tools/talkwalker/
+https://chatgpt.com/c/
+ 
