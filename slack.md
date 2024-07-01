@@ -29,4 +29,4 @@ Une fois dans le groupe, on peut rechercher l'information que l'on veut en explo
     - Demander aux membres du groupes s'il possèdent des informations à propos du sujet rechercher
 
 # Conclusion
-Slack est un bon outil pour de la veille informationnelle en tant que développeur avec la collaboration en temp réel avec d'autres professionel du métier et avec ça centralisation des informations,il possède tout de même certaines limites ou difficultés comme par exemple la recherche d'un groupe.  
+Slack est un bon outil pour de la veille informationnelle en tant que développeur avec la collaboration en temps réel avec d'autres professionnel du métier et avec sa centralisation des informations, il possède tout de même certaines limites ou difficultés comme par exemple la recherche d'un groupe.  
