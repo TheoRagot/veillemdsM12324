@@ -66,35 +66,35 @@ sur demande |
 
 ### Étape 1 : Configuration des alertes et surveillance
 
-![Monibrand - Rapport des annonceurs détectés par notre monitoring.](data:/mnt/data/Capture d’écran 2024-07-01 à 13.45.28.png)
+![Monibrand - Rapport des annonceurs détectés par notre monitoring.](./images/monibrand1.png)
 
 1. **Configuration des mots-clés** : Définissez les mots-clés à surveiller dans le tableau de bord de Monibrand.
 2. **Surveillance des annonces** : Consultez les rapports pour voir les annonceurs détectés utilisant vos mots-clés.
 
 ### Étape 2 : Création et suivi des tags personnalisés
 
-![Monibrand - Création et suivi des tags personnalisés des mots-clé.](data:/mnt/data/Capture d’écran 2024-07-01 à 13.45.20.png)
+![Monibrand - Création et suivi des tags personnalisés des mots-clé.](./images/monibrand2.png)
 
 1. **Tags personnalisés** : Créez et suivez les tags personnalisés pour une gestion précise des mots-clés.
 2. **Monitoring** : Utilisez l'outil de monitoring pour suivre les annonces liées à vos tags.
 
 ### Étape 3 : Gestion des annonces publicitaires concurrentes
 
-![Monibrand - Listing des concurrents détectés par notre monitoring, notifications de ceux-ci.](data:/mnt/data/Capture d’écran 2024-07-01 à 13.45.03.png)
+![Monibrand - Listing des annonces publicitaires des concurrents détectés par le monitoring, notifications de ceux-ci.](./images/monibrand3.png)
 
 1. **Détection des annonces** : Consultez la liste des annonces publicitaires concurrentes détectées par Monibrand.
-2. **Notifications automatisées** : Envoyez des notifications automatiques pour demander le retrait des annonces non-autorisées.
+2. **Notifications automatisées** : Envoyez des notifications automatiques pour les analyses de l’évolution de ce brand squatting.
 
 ### Étape 4 : Listing et notifications des concurrents
 
-![Monibrand - Listing des concurrents détectés par notre monitoring, notifications de ceux-ci.](data:/mnt/data/Capture d’écran 2024-07-01 à 13.45.03.png)
+![Monibrand - Listing des concurrents détectés par notre monitoring, notifications de ceux-ci.](./images/monibrand4.png)
 
 1. **Listing des concurrents** : Consultez la liste des concurrents détectés par Monibrand.
 2. **Notifications automatisées** : Envoyez des notifications automatiques pour demander le retrait des annonces non-autorisées.
 
 ### Étape 5 : Tableaux de bord et rapports centralisés
 
-![Monibrand - Tableaux de bord avec les datas centralisées.](data:/mnt/data/Capture d’écran 2024-07-01 à 13.44.48.png)
+![Monibrand - Tableaux de bord avec les datas centralisées.](./images/monibrand5.png)
 
 1. **Tableaux de bord** : Utilisez les tableaux de bord pour visualiser les données centralisées.
 2. **Rapports détaillés** : Créez des rapports pour analyser l’évolution du brand squatting et l’efficacité des actions entreprises.
