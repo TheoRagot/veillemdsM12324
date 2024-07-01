@@ -46,39 +46,28 @@ Identifiez les aspects spécifiques du développement informatique que vous souh
 
 - **Enregistrement et Organisation :** Utilisez les fonctionnalités de sauvegarde pour conserver des vidéos importantes pour une revue ultérieure. Organisez ces vidéos dans des collections sur TikTok pour faciliter l'accès et le suivi des tendances. En "aimant" les vidéos pertinentes, vous aidez également à affiner l'algorithme de TikTok, ce qui peut améliorer la pertinence du contenu que vous voyez sur votre flux. Cela rendra votre veille plus efficace, car l'algorithme apprendra à mieux reconnaître et à vous suggérer du contenu qui correspond à vos intérêts professionnels.
 
-### Tutoriel prise en main de l'outil 
-
-Parfait, pour réaliser un mini tutoriel imagé sur la prise en main de TikTok, surtout axé sur le développement informatique, nous allons détailler les étapes essentielles. Ce tutoriel vous aidera à naviguer efficacement sur TikTok, trouver des contenus pertinents et gérer votre flux pour la veille. Vous devrez capturer des captures d'écran pour illustrer chaque étape.
-
----
-
 ## Mini Tutoriel Imagé pour Prendre ses Marques sur TikTok
 
 ### Étape 1: Création d'un Compte TikTok
-- **Image :** Écran d'inscription de TikTok.
-- **Description :** Téléchargez l'application TikTok depuis l'App Store ou Google Play. Ouvrez l'application, touchez 'Moi' en bas à droite, puis 'S'inscrire'. Suivez les instructions pour créer un compte via votre e-mail, numéro de téléphone ou un compte existant comme Google ou Facebook.
-
-### Étape 2: Configuration du Profil
-- **Image :** Écran de profil utilisateur.
-- **Description :** Accédez à votre profil en tapant sur l'icône 'Moi'. Ici, vous pouvez ajouter une photo de profil, une bio et des liens. Assurez-vous que votre bio mentionne votre intérêt pour le développement informatique, ce qui peut attirer d'autres utilisateurs avec des intérêts similaires.
-
-### Étape 3: Découverte et Suivi des Hashtags
-- **Image :** Écran de recherche avec des hashtags pertinents comme #WebDevelopment.
-- **Description :** Appuyez sur l'icône 'Loupe' pour accéder à la recherche. Tapez des hashtags liés au développement informatique, par exemple, #DevOps, #Coding, ou #JavaScript. Explorez les vidéos et abonnez-vous aux hashtags en touchant le bouton 'Suivre'.
-
-### Étape 4: Interagir avec le Contenu
-- **Image :** Exemple de vidéo avec options d'interaction visibles.
-- **Description :** Lorsque vous trouvez des vidéos intéressantes, utilisez les boutons 'J'aime', 'Commentaire', et 'Partage' pour interagir. Cela aidera à affiner votre flux et encouragera TikTok à vous montrer plus de contenu similaire.
-
-### Étape 5: Utilisation des Fonctionnalités Avancées
-- **Image :** Écran montrant l'option de sauvegarde de vidéos.
-- **Description :** Pour les vidéos que vous trouvez particulièrement utiles, utilisez l'option 'Sauvegarder' pour les retrouver facilement. Vous pouvez également créer des collections de vidéos sauvegardées pour organiser votre veille par sujet ou par projet.
-
-### Étape 6: Analyse et Suivi des Tendances
 ![Exemple de vidéo avec options d'interaction visibles](./images/tiktok/inscription.PNG)
 
-- **Description :** Si vous postez du contenu, utilisez l'onglet 'Analytique' accessible via les paramètres de votre profil pour voir comment vos vidéos performent. Cela peut vous donner des insights sur ce qui résonne avec votre audience.
+- Téléchargez l'application TikTok puis ouvrez l'application après votre inscription.
 
----
+### Étape 2: Découverte et Suivi des Hashtags
+![Exemple de vidéo avec options d'interaction visibles](./images/tiktok/recherche.PNG)
+- Appuyez sur l'icône 'Loupe' pour accéder à la recherche. Tapez des hashtags liés au développement informatique, par exemple, #DevOps, #ReactJS, ou #JavaScript. Explorez les vidéos qui pourrait vous interessé
 
-Ce tutoriel devrait donner aux utilisateurs les bases nécessaires pour naviguer efficacement sur TikTok et commencer à utiliser la plateforme pour la veille dans le domaine du développement informatique. Assurez-vous que chaque capture d'écran est claire et pertinente pour les instructions fournies.
+### Étape 3: Filtrer le contenu
+![Exemple de vidéo avec options d'interaction visibles](./images/tiktok/filtre.PNG)
+- Dans notre domaine, les technologies évoluent si rapidement qu'il est essentiel de pouvoir filtrer le contenu selon la date de publication pour éviter de se référer à des informations obsolètes ou incorrectes.
+
+### Étape 4: Interagir avec le Contenu
+![Exemple de vidéo avec options d'interaction visibles](./images/tiktok/save.PNG)
+- **Description :** Lorsque vous trouvez des vidéos intéressantes, utilisez les boutons 'J'aime', 'Commentaire', et 'Sauvegarder' pour interagir. Cela aidera à affiner votre flux et encouragera TikTok à vous montrer plus de contenu similaire.
+
+### Étape 5: Se tenir informer de la sortie d'une vidéo
+![Exemple de vidéo avec options d'interaction visibles](./images/tiktok/notif.PNG)
+
+Si vous souhaitez être notifié lors de la publication d'un créateur de contenu en particulier, il est possible d'activer cette fonctionnalité en allant sur son profil et cliquer en haut à droite sur la cloche de notification.
+
+En suivant ces instructions progressivement, la section 'Pour toi' de TikTok s'adaptera de plus en plus à vos besoins de veille. Ainsi, il vous suffira simplement d'ouvrir l'application pour vous tenir informé.
