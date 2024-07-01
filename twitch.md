@@ -21,3 +21,25 @@ Les utilisateurs de Twitch sont divisés entre 2 rôles :
     - La fiabilité des sources ne sont pas garantie 
     - La plateforme n'est pas destiné initialement pour de la veille, mais pour le divertissement donc le contenue peut ne pas être adapté en fonction du besoin
     - Le besoin d'être présent au moment de la diffusion
+
+# Workflows
+
+- Sélectionner la catégorie du sujet recherché
+- Utiliser des mots-clés dans la barre de recherche afin de trouver des chaînes/lives qui sont en rapport avec le mot-clé
+
+# Mini tuto pris en main de l'outil
+
+- Tout d'abord pour accèder au site de Twitch il faut se rendre à cette adresse : https://www.twitch.tv/
+- Une fois arriver sur la page d'accueil, on peut soit choisir : 
+    - un live recommander par défaut (twitch_3.png)
+    - aller dans la partie "Parcourir" afin de choisir un thème de live (twitch_2.png)
+    - rechercher par mot clé dans la barre de recherche (twitch_1.png)
+
+- Si on choisi d'aller dans la partie "Parcourir", alors il faut choisir ensuite :
+    - la partie "Créatif", pour des lives plus dans la réalisation en direct (twitch_4.png)
+    - la partie "IRL" pour des lives plus dans la présentation du ou des produits, ou des conférences en direct (twitch_5.png)
+
+# Conclusion
+
+Faire de la veille informationnelle sur Twitch pour un développeur est peu recommandable si les sujets sont de l'ordre du technique et pratique dans le développement informatique.
+Mais si les sujets recherchés sont dans l'ordre des innovations technologique, alors ce site peu être intéressant par les différentes diffusions ou rediffusion des conventions/présentations sur les nouvelles technologies.
