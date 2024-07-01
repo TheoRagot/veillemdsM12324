@@ -66,8 +66,10 @@ Identifiez les aspects spécifiques du développement informatique que vous souh
 - **Description :** Lorsque vous trouvez des vidéos intéressantes, utilisez les boutons 'J'aime', 'Commentaire', et 'Sauvegarder' pour interagir. Cela aidera à affiner votre flux et encouragera TikTok à vous montrer plus de contenu similaire.
 
 ### Étape 5: Se tenir informer de la sortie d'une vidéo
-![Exemple de vidéo avec options d'interaction visibles](./images/tiktok/notif.PNG)
+![Exemple de vidéo avec options d'interaction visibles](./images/tiktok/notiff.PNG)
 
 Si vous souhaitez être notifié lors de la publication d'un créateur de contenu en particulier, il est possible d'activer cette fonctionnalité en allant sur son profil et cliquer en haut à droite sur la cloche de notification.
 
-En suivant ces instructions progressivement, la section 'Pour toi' de TikTok s'adaptera de plus en plus à vos besoins de veille. Ainsi, il vous suffira simplement d'ouvrir l'application pour vous tenir informé.
+---
+
+En suivant ces instructions progressivement, la section 'Pour toi' de TikTok s'adaptera de plus en plus à vos besoins de veille. Ainsi, il vous suffira simplement d'ouvrir l'application pour vous tenir informé!
