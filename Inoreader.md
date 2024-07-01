@@ -37,3 +37,23 @@ RSS est une famille de Flux web, c'est-à-dire un type de format de données uti
 - **Interface** : L'interface peut paraître encombrée pour certains utilisateurs.
 - Les filtres personnalisés peuvent être compliqués à configurer.
 
+## Workflows pour utiliser l'outil de manière optimale
+
+**Workflow 1 : Organisation des flux**
+1. **Ajout de flux :** Ajouter des flux RSS à Inoreader en utilisant l'option "Ajouter" puis "Flux".
+2. **Catégorisation :** Organiser les flux en dossiers pour une gestion plus facile. Utilisation des noms de dossiers descriptifs pour vous s'y retrouver rapidement.
+3. **Tags :** Utiliser des tags pour marquer des articles importants ou pour créer des sous-catégories au sein des dossiers. "Lire plus tard" ou "Marquer comme lu".
+
+**Workflow 2 : Utilisation des règles d'automatisation**
+1. **Créer une règle :** Allez dans les paramètres et sélectionnez "Règles" pour créer une nouvelle règle.
+2. **Définir les critères :** Spécifiez les critères pour déclencher la règle (par exemple, un mot-clé spécifique dans le titre).
+3. **Action :** Définissez l'action à réaliser lorsque la règle est déclenchée (par exemple, marquer comme lu, déplacer dans un dossier, ajouter un tag).
+Cette fonction n'est disponible que pour les utilisateurs Pro.
+
+**Workflow 3 : Recherche avancée et sauvegarde**
+1. **Recherche avancée :** Utilisez la barre de recherche pour effectuer des recherches avancées dans vos flux.
+2. **Sauvegarder la recherche :** Sauvegardez des recherches fréquentes pour un accès rapide ultérieur.
+3. **Notifications de recherche :** Activez les notifications pour être alerté lorsqu'un nouvel article correspondant à votre recherche est publié.
+
+## Mini tuto imagé
+
