@@ -58,5 +58,14 @@ Mention est une plateforme de surveillance des médias qui permet aux entreprise
 ![Configuration des alertes](./images/mention/avis.png)
 - Cette page de Mention vous permet de surveiller spécifiquement les sites d'avis clients, essentiels pour comprendre les retours directement exprimés par les consommateurs. Pour configurer votre surveillance, cliquez sur "+ Ajouter une page d'avis clients" et sélectionnez les sites pertinents. Cela vous aidera à recueillir les opinions et les évaluations qui influencent la réputation de votre marque, en permettant une analyse fine des sentiments exprimés par vos clients.
 
-![Configuration des alertes](./images/mention/avis.png)
+### Étape 3: Analyse des alertes
+![Configuration des alertes](./images/mention/actu.png)
+- Cette section permet d'analyser et voir toutes les publications en fonction des alertes que vous avez configuré
 
+### Étape 3: Tableau de bord
+![Configuration des alertes](./images/mention/dashboard.png)
+- Avec une bonne configuration, ce tableau de bord permet d'avoir une vue globale sur les mentions configuré avec différentes fonctionnalitées possibles.
+
+
+---
+Cette documentation détaille l'utilisation de Mention pour une veille informationnelle efficace, couvrant le suivi de mentions, l'analyse des sentiments, et la gestion des crises. Mention offre des outils pour surveiller la réputation de marque et les tendances du marché, avec des configurations personnalisables et un tableau de bord intuitif pour un accès rapide aux données importantes.
