@@ -51,37 +51,38 @@ TalkWalker est un outil de veille informationnelle et d'analyse de médias, con�
 2. **Analyser la structure SEO** : Vérifier les titres, balises, liens internes, etc.
 3. **Adapter la stratégie** : Modifier l'architecture du site et le contenu pour améliorer le classement.
 
-## Mini tuto imagé
+# Mini tuto pour utiliser Talkwalker Free Quick Search
 
-### Étape 1 : Connexion et Configuration initiale
+## Étape 1 : Accéder à Talkwalker Free Quick Search
 
-!["Dashboard"](./images/talkwalker1.png)
+1. **Visitez le site de Talkwalker** : Allez sur Talkwalker Free Quick Search et connectez-vous ou créez un compte si vous n'en avez pas.
 
-1. **Connexion** : Accédez à TalkWalker et connectez-vous avec vos identifiants.
-2. **Configuration des alertes** : Rendez-vous dans le menu de configuration et définissez vos mots-clés.
+## Étape 2 : Entrer les mots-clés de recherche
 
-### Étape 2 : Utilisation de Quick Search
+1. **Champ de recherche** : Entrez les mots-clés ou phrases que vous souhaitez surveiller dans le champ de recherche.
 
-!["Recherche"](./images/talkwalker2.png)
+![](./images/TalkWalker1.png)
 
-1. **Recherche rapide** : Accédez à l'outil Quick Search pour comparer jusqu'à 5 marques.
-2. **Filtres** : Utilisez les filtres pour affiner les résultats par plateforme, type d'infraction, etc.
+## Étape 3 : Définir les filtres de recherche
 
-### Étape 3 : Analyse des données
+1. **Filtres** : Utilisez les filtres disponibles pour affiner les résultats par date, langue, et sources (réseaux sociaux, blogs, forums, etc.).
+2. **Appliquer les filtres** : Cliquez sur "Appliquer" pour filtrer les résultats selon vos critères.
 
-!["Visualisation résultats recherches"](./images/talkwalker3.png)
+![](./images/TalkWalker2.png)
 
-1. **Rapports détaillés** : Analysez les rapports pour comprendre la portée et l'impact des infractions.
-2. **Visualisation des données** : Utilisez les graphiques pour une meilleure interprétation des données.
+## Étape 4 : Analyser les résultats
 
-### Étape 4 : Réaction et gestion
+1. **Tableau de bord** : Consultez le tableau de bord qui affiche les résultats de votre recherche.
+2. **Graphiques et statistiques** : Analysez les graphiques et les statistiques pour comprendre les tendances et les mentions de vos mots-clés.
 
-!["Reaction et gestion"](./images/talkwalker4.png)
+![](./images/TalkWalker3.png)
 
-!["Reaction et gestion"](./images/talkwalker5.png)
+## Étape 5 : Affiner la recherche et explorer les mentions
 
-1. **Alertes en temps réel** : Configurez les notifications pour être alerté immédiatement en cas d'infraction.
-2. **Gestion des infractions** : Utilisez les outils de Talkwalker pour signaler et suivre les actions entreprises pour chaque infraction.
+1. **Exploration des mentions** : Cliquez sur les différentes sections pour explorer les mentions en détail.
+2. **Affiner la recherche** : Si nécessaire, ajustez les mots-clés et les filtres pour affiner davantage les résultats.
+
+![](./images/TalkWalker4.png)
 
 ## Informations complémentaires
 
