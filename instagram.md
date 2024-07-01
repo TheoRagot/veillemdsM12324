@@ -41,7 +41,7 @@ Sources : https://fr.wikipedia.org/wiki/Instagram
 ### Trouver du contenu qui nous intéresse :
 Afin que l'algorithme nous recommande des comptes qui nous intéressent il faut commencer par chercher du contenu qui nous intéresse.
 <div style="text-align: center;">
-  <img src="images/instagram/1.png" alt="Description de l'image 1" width="100">
+  <img src="images/instagram/1.PNG" alt="Description de l'image 1" width="100">
 </div>
 
 ### Liker les posts :
@@ -59,11 +59,11 @@ Si le contenu trouvé dans l'étape précédente nous intéresse, il est intére
 ### Activer les notifications :
 Afin de ne pas rater de contenu intéressant il est possible d'activer les notifications pour les comptes qui nous intéressent.
 <div style="text-align: center;">
-  <img src="images/instagram/3.png" alt="Description de l'image 1" width="100">
+  <img src="images/instagram/3.PNG" alt="Description de l'image 1" width="100">
 </div>
 
 ### S'informer quotidiennement :
 En respectant ces étapes quotidiennement, l'algorithme nous recommandera de plus en plus de contenu qui nous intéresse et notre fil d'actualité nous permettra une veille efficace.
 <div style="text-align: center;">
-  <img src="images/instagram/6.png" alt="Description de l'image 1" width="100">
+  <img src="images/instagram/6.PNG" alt="Description de l'image 1" width="100">
 </div>
