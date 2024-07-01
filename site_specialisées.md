@@ -48,20 +48,20 @@ La plupart du temps, lorsque je cherche un outil ou une informations que je ne t
 ### Se rendre sur le site et se connecter
 Pour accéder au contenu du site il faut se rendre sur [instant-hack.to](instant-hack.to) et se connecter.
 <div align="center">
-  <img src="images/site_specialisées/1.png" alt="Page d'accueil du site" width="200">
+  <img src="images/site_specialisées/1.png" alt="Page d'accueil du site" width="400">
 </div>
 
 ### Trier par nombres d'articles affichés
 De bases 10 entrées sont affichés, il est possible de changer ce nombre pour en afficher plus. (n'allant pas souvent sur le site, je mets 100 articles par page directement).
 <div align="center">
-  <img src="images/site_specialisées/2.png" alt="Page d'accueil du site" width="200">
+  <img src="images/site_specialisées/2.png" alt="Page d'accueil du site" width="400">
 </div>
 
 ### Choisir un article
 Il ne reste plus qu'a trié parmi les articles pertinents et en choisir un à lire.
 Il est également possible de trier par catégories (citées en haut du document)
 <div align="center">
-  <img src="images/site_specialisées/3.png" alt="Page d'accueil du site" width="200">
+  <img src="images/site_specialisées/3.png" alt="Page d'accueil du site" width="400">
 </div>
 
 _PS : Sur certains articles il faut répondre pour déverrouiller le contenu et depuis peu il y a des articles avec du contenu (souvent les pieces jointes) qui sont payants (coins du site)._
@@ -69,5 +69,5 @@ _PS : Sur certains articles il faut répondre pour déverrouiller le contenu et 
 ## Activer les notifications
 Pour ne pas rater les derniers articles, il est possible d'activer les notifications pour être averti dès qu'un nouvel article est publié.
 <div align="center">
-  <img src="images/site_specialisées/4.png" alt="Page d'accueil du site" width="200">
+  <img src="images/site_specialisées/4.png" alt="Page d'accueil du site" width="300">
 </div>
