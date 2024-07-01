@@ -77,4 +77,4 @@ Voici un guide rapide pour prendre en main Flusio :
 3. **Organisation des flux et signets**
    ![Organisation]()
    Organisez vos flux et signets en collections et utilisez des tags pour une gestion plus efficace.
-   !["Organiser"](./images/Flusio5.png)
+   !["Organiser"](./images/flusio5.png)
