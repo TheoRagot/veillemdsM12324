@@ -62,7 +62,7 @@ sur demande |
 2. **Analyser les tendances** : Identifier les tendances dans les infractions pour ajuster les stratégies de protection.
 3. **Communiquer avec les parties prenantes** : Partager les rapports et les insights avec les équipes internes et les investisseurs.
 
-## Mini tuto imagé
+## Mini tuto (pas accès démo)
 
 ### Étape 1 : Configuration des alertes et surveillance
 
