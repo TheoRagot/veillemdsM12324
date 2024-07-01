@@ -68,3 +68,6 @@ Vos rendus doivent se faire sur ce repository, au format MarkDown. Le nom de vos
 - **5 points** : Le tutoest complet et permet à la fois de décourir et comprendre l'interface de l'outil, mais aussi de le prendre en main rapidement.
 - **3 points bonus** : Les informations complémentaires sont bien traitées dans le markdown
 
+## Rendu
+
+Chaque groupe devra faire une PR sur ce même repository pour rendre ses travaux
